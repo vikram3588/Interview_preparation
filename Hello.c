@@ -7,4 +7,6 @@ int main()
   printf("also welcome to c\n");
   
   printf("third update");
+  
+  printf("in master new line");
 }
